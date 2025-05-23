@@ -3,7 +3,7 @@
 
 # 🛒 GETIT
 </div>
-Streamlined college e-commerce: Simplifying merch buying and selling for students.
+GetIT is an ecommerce platform for IIITDMJ students and clubs allowing them to sell merch and even tickets within the campus.
 
 
 ## ✨FEATURES
@@ -13,9 +13,6 @@ Streamlined college e-commerce: Simplifying merch buying and selling for student
 - Buy the merch you like
 - Automatic payments for sellers no need for manual verification
 - Seller reports
-
-
-
 
 ---
 ## 📱 Tech Stack 
